@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CandidatoPersonero
+comment1.params=
+comment1.target=Animal\ getMascota()
+comment2.params=mascota
+comment2.target=void\ setMascota(Animal)
+numComments=3
